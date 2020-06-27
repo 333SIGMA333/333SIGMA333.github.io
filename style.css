@@ -121,7 +121,7 @@ body {
 }
 
 .vk:hover {
-    color: black;
+    color: yellow;
 }
 
 .face {
@@ -129,11 +129,11 @@ body {
 }
 
 .face:hover {
-    color: black;
+    color: yellow;
 }
 
 .vk:hover {
-    color: black;
+    color: yellow;
 }
 
 .insta {
@@ -141,7 +141,7 @@ body {
 }
 
 .insta:hover {
-    color: black
+    color: yellow;
 }
 
 .git:hover {
