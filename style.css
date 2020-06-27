@@ -116,16 +116,36 @@ body {
     color: #000;
 }
 
-.fa-vk {
+.vk {
     color: #597da3;
 }
 
-.fa-facebook-f {
+.vk:hover {
+    color: black;
+}
+
+.face {
     color: #597da3;
 }
 
-.fa-instagram {
+.face:hover {
+    color: black;
+}
+
+.vk:hover {
+    color: black;
+}
+
+.insta {
     color: rgb(180, 26, 147);
+}
+
+.insta:hover {
+    color: black
+}
+
+.git:hover {
+    color: yellow;
 }
 
 
@@ -296,18 +316,9 @@ body {
     transform: scale(1.1)
 }
 
-.fa-vk {
-    color: white;
+.sec2{
+    color: white !important;
 }
-
-.fa-envelope {
-    color: white;
-}
-
-.fa-instagram {
-    color: white;
-}
-
 
 .contact-item {
     display: flex;
